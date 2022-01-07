@@ -11,7 +11,7 @@ Currently working on:
 
 Connect with me:
 
-<a href="linkedin.com/in/joão-oliveira-304134226">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-oliveira-304134226/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.youtube.com/channel/UC8YA0yipAdxp3jV-ZH2Oyog">![YouTube](https://img.shields.io/badge/Channel-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
 
 ---
