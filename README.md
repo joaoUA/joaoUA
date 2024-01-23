@@ -1,4 +1,4 @@
-<h1 align="center">Hi! 👋 I'm João Oliveira</h1>
+<h1 align="center">João Oliveira</h1>
 <h3 align="center">Information Technologies Student 🎓</h3>
 <h5 align="center">at ESTGA-UA </h5>
 
